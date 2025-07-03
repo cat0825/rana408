@@ -119,10 +119,9 @@
           <li>持续补充数据结构、计组、计网等408其他模块内容</li>
         </ul>
         <p class="right">👉 <a href="/408/导航">点我查看导航</a></p>
-        <p style="color:#e74c3c;font-weight:bold;">你们千万不要加我的WeChat和我一起讨论408 千万不要!</p>
-        <img src="附件/wechat.png" style="max-width:100%;border-radius:8px;box-shadow:0 1px 8px #0002;" alt="408考研笔记示意图">
+        <p style="color:#e74c3c;font-weight:bold;">你们千万不要加我的WeChat(yuuri777)和我一起讨论408 千万不要!</p>
+        <img src="附件/wechat.png" style="max-width:100%;border-radius:8px;box-shadow:0 1px 8px #0002;" alt="">
       </div>
     </div>
   </body>
 </html>
-![wechat.png](/img/user/%E9%99%84%E4%BB%B6/wechat.png)
