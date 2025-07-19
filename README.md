@@ -1,9 +1,52 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+Ran tool
+
+Ran tool
+
+Ran tool
+
+Ran tool
+
+Read file: webof408/Welcome🎉.md
+根据你项目的结构和 `Welcome🎉.md` 文件内容，我为你撰写了一个美观且简明的 README 文件草稿，适合放在 `webof408` 目录下。你可以根据需要进一步美化或补充。
 
 ---
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+
+# 408考研计算机启发性问题集（Demo版）
+
+![OS](https://img.shields.io/badge/OS-操作系统-blue)
+![组成原理](https://img.shields.io/badge/组成原理-计算机组成原理-green)
+![状态](https://img.shields.io/badge/状态-Demo--预览版-orange)
+
+## 项目简介
+
+本项目专为考研学子打造，收集和整理了 408 考研科目中的**启发性问题**，旨在帮助同学们开阔思路、发现知识盲区、提升理解深度。内容涵盖操作系统、计算机组成原理、数据结构、计算机网络等核心模块。
+
+> ⚠️ 本项目**不是**一份全面的复习指南，也不包含所有基础知识点。请结合权威教材和系统课程进行复习，本项目内容仅供查漏补缺和思维训练参考。
+
+## 目录结构
+
+- `408/`：各科目启发性问题与知识点笔记
+- `notes/`：补充笔记与个人总结
+- `数学记录/`：数学相关的考研资料
+- `附件/`：配套图片、资料等资源
+
+## 快速开始
+
+1. 克隆本仓库到本地
+2. 使用 Obsidian 或任意 Markdown 编辑器浏览笔记
+3. 推荐配合教材、真题和课程资料一同使用
+
+## 参与交流
+
+- [⭐️ GitHub 仓库，欢迎点Star！](https://github.com/cat0825/rana408)
+- [💬 加入QQ群【408老兵连队】](https://qm.qq.com/q/2TfrHdTJJm)
+- WeChat: yuuri777（欢迎讨论408）
+
+## 致谢
+
+感谢所有为 408 考研付出努力的同学们，愿你们都能顺利上岸！
+
+---
+
+如需进一步美化（如添加徽章、目录自动生成、图片展示等），可告知你的具体需求！
