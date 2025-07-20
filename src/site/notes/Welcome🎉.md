@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Welcome🎉","permalink":"/Welcome🎉/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-publish":true,"dg-permalink":"/Welcome🎉","permalink":"/Welcome🎉/","tags":["gardenEntry"],"dgShowInlineTitle":true}
 ---
 
 <html>
