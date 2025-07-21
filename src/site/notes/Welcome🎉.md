@@ -90,6 +90,7 @@
         <div style="display:flex;flex-direction:column;align-items:center;gap:16px;margin:24px 0;">
           <a href="/408/导航" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#ff9800 80%,#ffd54f 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #ff980033;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">👉 网页导航</a>
           <a href="https://github.com/cat0825/rana408" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#24292f 80%,#4F8EF7 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #0002;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">⭐️ GitHub 仓库</a>
+          <div style="color:#e74c3c;font-weight:bold;text-align:center;margin:4px 0 8px 0;">你们千万别来当contributors 我不想看到你们复试简历上面有百星项目的贡献经历</div>
           <a href="https://qm.qq.com/q/2TfrHdTJJm" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#e67e22 80%,#f7ca4f 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #e67e2233;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">💬 QQ群</a>
           <a href="https://pan.baidu.com/j/1vAwKlrWWlA" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#4F8EF7 80%,#42e9f7 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #4F8EF733;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">📦 百度网盘群</a>
         </div>
@@ -104,3 +105,4 @@
     </div>
   </body>
 </html>
+![image.png|132x180](/img/user/%E9%99%84%E4%BB%B6/image.png)
