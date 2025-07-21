@@ -87,11 +87,17 @@
           <h3><a href="https://qm.qq.com/q/2TfrHdTJJm" target="_blank">点击链接加入群聊【408老兵连队】</a></h3>
         </center>
         <h2>📚 目录导航</h2>
-        <div class="action-links">
-          <a href="https://github.com/cat0825/rana408" target="_blank" class="github-btn">⭐️ GitHub 仓库，欢迎点Star！</a>
-          <a href="https://qm.qq.com/q/2TfrHdTJJm" target="_blank" class="qq-btn">💬 加入QQ群【408老兵连队】</a>
+        <div style="display:flex;flex-direction:column;align-items:center;gap:16px;margin:24px 0;">
+          <a href="/408/导航" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#ff9800 80%,#ffd54f 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #ff980033;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">👉 网页导航</a>
+          <a href="https://github.com/cat0825/rana408" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#24292f 80%,#4F8EF7 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #0002;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">⭐️ GitHub 仓库</a>
+          <a href="https://qm.qq.com/q/2TfrHdTJJm" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#e67e22 80%,#f7ca4f 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #e67e2233;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">💬 QQ群</a>
+          <a href="https://pan.baidu.com/j/1vAwKlrWWlA" target="_blank" style="width:220px;padding:14px 0;font-size:1.08em;font-weight:600;background:linear-gradient(90deg,#4F8EF7 80%,#42e9f7 100%);color:#fff;border-radius:10px;box-shadow:0 2px 8px #4F8EF733;text-decoration:none;transition:transform 0.15s,box-shadow 0.15s;letter-spacing:1px;text-align:center;">📦 百度网盘群</a>
         </div>
-        <p class="right">👉 <a href="/408/导航">点我查看导航</a></p>
+        <ul style="font-size:1.05em;line-height:1.8;text-align:center;margin:0 0 18px 0;list-style:none;padding:0;">
+          <li><b>数学：</b>张宇、李林、武忠祥等全程课，真题分类与模拟题汇总</li>
+          <li><b>408：</b>王道、beok全程课，真题分类，专题整理，模拟题与1000题</li>
+          <li><b>其他：</b>徐涛、田静全程课等</li>
+        </ul>
         <p style="color:#e74c3c;font-weight:bold;">你们千万不要加我的WeChat(yuuri777)和我一起讨论408 千万不要!</p>
         <img src="附件/wechat.png" style="max-width:100%;border-radius:8px;box-shadow:0 1px 8px #0002;" alt="">
       </div>
